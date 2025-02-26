@@ -21,7 +21,6 @@ public class Interagindo {
                 ex +=(b+ "x" +a+ "=" +(b*a)+" \t");
             }
             ex += (" ");
-
             ex += ("\n");
 
         }
